@@ -132,9 +132,6 @@ no pom.xml.
 -   [Guilherme Scarcela Bueno](https://github.com/Scarcela13)
 -   [João Paulo Marques Ferreira](https://github.com/Joao-Paulo2007)
 
-Repositório oficial:
-https://github.com/Sidney-Emanuel-Oliveira/Sistema-De-Frotas
-
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT](LICENSE).
