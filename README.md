@@ -127,14 +127,14 @@ no pom.xml.
 
 ## 👥 Equipe de Desenvolvimento
 
--   Gilvan Pedro de Castro Melo Campos
--   Sidney Emanuel Barbosa de Oliveira
--   Guilherme Scarcela Bueno
--   João Paulo Marques Ferreira
+-   [Gilvan Pedro de Castro Melo Campos](https://github.com/GilvanPedro)
+-   [Sidney Emanuel Barbosa de Oliveira](https://github.com/Sidney-Emanuel-Oliveira)
+-   [Guilherme Scarcela Bueno](https://github.com/Scarcela13)
+-   [João Paulo Marques Ferreira](https://github.com/Joao-Paulo2007)
 
 Repositório oficial:
 https://github.com/Sidney-Emanuel-Oliveira/Sistema-De-Frotas
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença [MIT](LICENSE).
